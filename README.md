@@ -16,3 +16,5 @@ Connect to localhost server,start apache & mysql, open company, open Tata_Login_
 
 Languages used:
 html, css, javascript, php & mysql
+
+NOTE: All the images/names used in the above project are credits to their respective creators.
